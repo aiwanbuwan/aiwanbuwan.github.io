@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "WD75KR3HCV.com.pet.doupai",
+                "paths": [ "/wechat/*"]
+            }
+        ]
+    }
+}
